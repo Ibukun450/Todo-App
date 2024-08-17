@@ -29,7 +29,8 @@ body.light-mode {
     background-color: var(--background-color);
     #what-todo {
         background-color: #fff;
-        font-weight: 600;
+        font-weight: 500;
+        color: hsl(200, 15%, 8%);
     }
     .todo-list {
         background-color: #fff;
